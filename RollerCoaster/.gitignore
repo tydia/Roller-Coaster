@@ -1,0 +1,8 @@
+Makefile
+assign2
+*.o
+/splines/*
+track.txt
+.DS_Store
+/.vscode/*
+temp.cpp
